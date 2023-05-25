@@ -1,0 +1,15 @@
+D:\School\Programming II\Repo\Ritola_RoboDialer_Solution\Ritola_RoboDialer\obj\Debug\net6.0\Ritola_RoboDialer.csproj.AssemblyReference.cache
+D:\School\Programming II\Repo\Ritola_RoboDialer_Solution\Ritola_RoboDialer\obj\Debug\net6.0\Ritola_RoboDialer.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\Programming II\Repo\Ritola_RoboDialer_Solution\Ritola_RoboDialer\obj\Debug\net6.0\Ritola_RoboDialer.AssemblyInfoInputs.cache
+D:\School\Programming II\Repo\Ritola_RoboDialer_Solution\Ritola_RoboDialer\obj\Debug\net6.0\Ritola_RoboDialer.AssemblyInfo.cs
+D:\School\Programming II\Repo\Ritola_RoboDialer_Solution\Ritola_RoboDialer\obj\Debug\net6.0\Ritola_RoboDialer.csproj.CoreCompileInputs.cache
+D:\School\Programming II\Repo\Ritola_RoboDialer_Solution\Ritola_RoboDialer\bin\Debug\net6.0\Ritola_RoboDialer.exe
+D:\School\Programming II\Repo\Ritola_RoboDialer_Solution\Ritola_RoboDialer\bin\Debug\net6.0\Ritola_RoboDialer.deps.json
+D:\School\Programming II\Repo\Ritola_RoboDialer_Solution\Ritola_RoboDialer\bin\Debug\net6.0\Ritola_RoboDialer.runtimeconfig.json
+D:\School\Programming II\Repo\Ritola_RoboDialer_Solution\Ritola_RoboDialer\bin\Debug\net6.0\Ritola_RoboDialer.dll
+D:\School\Programming II\Repo\Ritola_RoboDialer_Solution\Ritola_RoboDialer\bin\Debug\net6.0\Ritola_RoboDialer.pdb
+D:\School\Programming II\Repo\Ritola_RoboDialer_Solution\Ritola_RoboDialer\obj\Debug\net6.0\Ritola_RoboDialer.dll
+D:\School\Programming II\Repo\Ritola_RoboDialer_Solution\Ritola_RoboDialer\obj\Debug\net6.0\refint\Ritola_RoboDialer.dll
+D:\School\Programming II\Repo\Ritola_RoboDialer_Solution\Ritola_RoboDialer\obj\Debug\net6.0\Ritola_RoboDialer.pdb
+D:\School\Programming II\Repo\Ritola_RoboDialer_Solution\Ritola_RoboDialer\obj\Debug\net6.0\Ritola_RoboDialer.genruntimeconfig.cache
+D:\School\Programming II\Repo\Ritola_RoboDialer_Solution\Ritola_RoboDialer\obj\Debug\net6.0\ref\Ritola_RoboDialer.dll
